@@ -1,0 +1,19 @@
+h1 {
+    font-size: 30px;
+    color: white;
+}
+
+.Page {
+    font-size: 20px;
+    background-color: rgb(221, 168, 168);
+}
+
+.Post {
+    padding: 1%;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(33, 37, 41);
+}
